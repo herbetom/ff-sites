@@ -1,0 +1,117 @@
+[submodule "site-ff3l"]
+	path = site-ff3l
+	url = https://github.com/ff3l/site-ff3l
+[submodule "site-ffa"]
+	path = site-ffa
+	url = https://github.com/tecff/site-ffa
+[submodule "site-ffac"]
+	path = site-ffac
+	url = https://github.com/ffac/site
+[submodule "site-ffbs"]
+	path = site-ffbs
+	url = https://gitli.stratum0.org/ffbs/ffbs-site
+[submodule "site-ffc"]
+	path = site-ffc
+	url = https://gitlab.com/FreifunkChemnitz/site-ffc
+[submodule "site-ffda"]
+	path = site-ffda
+	url = https://git.darmstadt.ccc.de/ffda/firmware/site
+[submodule "site-ffef"]
+	path = site-ffef
+	url = https://github.com/FreifunkErfurt/site-ffef
+[submodule "site-fffd"]
+	path = site-fffd
+	url = https://git.maglab.space/fffd/site-fffd
+[submodule "site-ffffm"]
+	path = site-ffffm
+	url = https://chaos.expert/FFFFM/site
+[submodule "site-fffl"]
+	path = site-fffl
+	url = https://github.com/freifunk-flensburg/site-fffl
+[submodule "site-ffgoe"]
+	path = site-ffgoe
+	url = https://github.com/freifunk-goettingen/site-ffgoe
+[submodule "site-ffh"]
+	path = site-ffh
+	url = https://github.com/freifunkh/site
+[submodule "site-ffhb"]
+	path = site-ffhb
+	url = https://github.com/FreifunkBremen/gluon-site-ffhb
+[submodule "site-ffhgw"]
+	path = site-ffhgw
+	url = https://github.com/Freifunk-Greifswald/site-ffhgw
+[submodule "site-ffhh"]
+	path = site-ffhh
+	url = https://github.com/freifunkhamburg/site-ffhh
+[submodule "site-ffin"]
+	path = site-ffin
+	url = https://git.bingo-ev.de/freifunk/ffin-site
+[submodule "site-ffhl"]
+	path = site-ffhl
+	url = https://github.com/freifunk-luebeck/site-ffhl
+[submodule "site-ffhmue"]
+	path = site-ffhmue
+	url = https://github.com/Freifunk-Muenden/site-conf
+[submodule "site-ffho"]
+	path = site-ffho
+	url = https://git.ffho.net/freifunkhochstift/ffho-site
+[submodule "site-ffka"]
+	path = site-ffka
+	url = https://gitlab.karlsruhe.freifunk.net/firmware/site/
+[submodule "site-ffki"]
+	path = site-ffki
+	url = https://gitlab.toppoint.de/ffki/ffki-site
+[submodule "site-ffl"]
+	path = site-ffl
+	url = https://github.com/freifunk-leipzig/freifunk-gluon-leipzig
+[submodule "site-fflg"]
+	path = site-fflg
+	url = https://github.com/kartenkarsten/site-fflg
+[submodule "site-fflz"]
+	path = site-fflz
+	url = https://github.com/freifunk-lausitz/site-fflz
+[submodule "site-ffm"]
+	path = site-ffm
+	url = https://github.com/freifunkMUC/site-ffm
+[submodule "site-ffmd"]
+	path = site-ffmd
+	url = https://github.com/FreifunkMD/site-ffmd
+[submodule "site-ffmk"]
+	path = site-ffmk
+	url = https://github.com/freifunk-mk/ff-sites
+[submodule "site-ffmsl"]
+	path = site-ffmsl
+	url = https://github.com/FreiFunkMuenster/site-ffmsl
+[submodule "site-ffmwu"]
+	path = site-ffmwu
+	url = https://github.com/freifunk-mwu/site-ffmwu
+[submodule "site-ffmyk"]
+	path = site-ffmyk
+	url = https://github.com/FreifunkMYK/site-ffmyk
+[submodule "site-ffrgb"]
+	path = site-ffrgb
+	url = https://github.com/ffrgb/site-ffrgb
+[submodule "site-ffrn"]
+	path = site-ffrn
+	url = https://github.com/Freifunk-Rhein-Neckar/site-ffrn
+[submodule "site-ffs"]
+	path = site-ffs
+	url = https://github.com/freifunk-stuttgart/site-ffs
+[submodule "site-ffsaar"]
+	path = site-ffsaar
+	url = https://git.hacksaar.de/FreifunkSaar/gluon-site
+[submodule "site-fftr"]
+	path = site-fftr
+	url = https://github.com/freifunktrier/site-fftr
+[submodule "site-ffue"]
+	path = site-ffue
+	url = https://github.com/FreifunkUE/site
+[submodule "site-ffv"]
+	path = site-ffv
+	url = https://github.com/FreifunkVogtland/site-ffv
+[submodule "site-neuss"]
+	path = site-neuss
+	url = https://github.com/ffne/site-neuss
+[submodule "site-nord"]
+	path = site-nord
+	url = https://github.com/Freifunk-Nord/nord-site
