@@ -15,7 +15,7 @@
 	url = https://gitlab.com/FreifunkChemnitz/site-ffc
 [submodule "site-ffda"]
 	path = site-ffda
-	url = https://git.darmstadt.ccc.de/ffda/firmware/site
+	url = https://github.com/freifunk-darmstadt/site-ffda.git
 [submodule "site-ffef"]
 	path = site-ffef
 	url = https://github.com/FreifunkErfurt/site-ffef
