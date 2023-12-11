@@ -1,5 +1,5 @@
 name: Archive Gluon Sites
-on: [push]
+on: [push, workflow_dispatch]
 jobs:
   pull:
     runs-on: ubuntu-latest
