@@ -54,7 +54,7 @@
 	url = https://github.com/Freifunk-Muenden/site-conf
 [submodule "site-ffho"]
 	path = site-ffho
-	url = https://git.ffho.net/freifunkhochstift/ffho-site
+	url = https://github.com/FreifunkHochstift/ffho-site.git
 [submodule "site-ffka"]
 	path = site-ffka
 	url = https://gitlab.karlsruhe.freifunk.net/firmware/site/
