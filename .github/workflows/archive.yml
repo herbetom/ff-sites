@@ -1,0 +1,16 @@
+
+name: Archive Gluon Sites
+on: [ push ]
+jobs:
+  Archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+        submodules: true
+      - name: install tree
+        run: apt install tree -y
+      - name: List files in the repository
+        run: |
+          tree -L 2 ${{ github.workspace }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
