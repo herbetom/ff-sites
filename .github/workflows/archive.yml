@@ -7,7 +7,8 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
-        submodules: true
+        with:
+          submodules: true
       - name: install tree
         run: apt install tree -y
       - name: List files in the repository
